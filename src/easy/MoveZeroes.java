@@ -10,7 +10,7 @@ public class MoveZeroes {
 					swap(j - 1, j, nums);
 				}
 			}
-		}
+        }
     	return nums;
     }
     
